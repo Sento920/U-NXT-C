@@ -1,0 +1,7 @@
+
+This is an experiment into C programming on a massive scale. Using SDL, this project plans to create a Mega-man esque game.
+
+Full details are included in the Document that accompanies this txt file.
+
+Current Story Summary:
+    Bash is a computer AI that protects Itself / Other computers from viruses.  One day, he encounters CHEL, Another AI who is deliberately salting the WEB with viruses. Out of sense of Duty, he sets out to remove the virus threat, and keep his home safe. 
